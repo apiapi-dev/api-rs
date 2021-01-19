@@ -6,8 +6,8 @@ table! {
         respository -> Nullable<Text>,
         documentation -> Nullable<Text>,
         homepage -> Nullable<Text>,
-        lastupdated -> Timestamp,
-        created -> Timestamp,
+        last_updated -> Timestamptz,
+        created -> Timestamptz,
         creator_id -> Text,
     }
 }
