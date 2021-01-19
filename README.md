@@ -1,2 +1,2 @@
-# api-rs
+# apirs
 API API in Rust 

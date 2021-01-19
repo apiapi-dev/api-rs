@@ -1,5 +1,5 @@
 [package]
-name = "api-rs"
+name = "apirs"
 version = "0.1.0"
 authors = ["Benjamin Swerdlow <Swerdlowbenjamin@gmail.com>"]
 edition = "2018"
